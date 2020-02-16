@@ -1,1 +1,1 @@
-https://github.com/Quazaru/rsschool-cv.git
+https://Quazaru.github.io/rsschool-cv/cv
